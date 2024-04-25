@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lovebabbar/Desktop/Lakshay/Supra-LLD/Live Classes/DoubtClass-Creational/Singleton/output/2. locking'
+relocations:
+  - { offsetInCU: 0x39, offset: 0x39, size: 0x8, addend: 0x0, symName: __ZN9Singleton8instanceE, symObjAddr: 0x13C20, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x458B, offset: 0x458B, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x198, symBinAddr: 0x100003B2C, symSize: 0x58 }
+  - { offsetInCU: 0x4672, offset: 0x4672, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x3D8, symBinAddr: 0x100003D6C, symSize: 0x2C }
+  - { offsetInCU: 0x4BDC, offset: 0x4BDC, size: 0x8, addend: 0x0, symName: __ZN9Singleton1mE, symObjAddr: 0x13C28, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x6F6B, offset: 0x6F6B, size: 0x8, addend: 0x0, symName: __ZNSt3__15mutexC1B7v160006Ev, symObjAddr: 0x0, symBinAddr: 0x100003994, symSize: 0x2C }
+  - { offsetInCU: 0x6F93, offset: 0x6F93, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2C, symBinAddr: 0x1000039C0, symSize: 0x74 }
+  - { offsetInCU: 0x6FBB, offset: 0x6FBB, size: 0x8, addend: 0x0, symName: __ZN9Singleton11getInstanceEv, symObjAddr: 0xA0, symBinAddr: 0x100003A34, symSize: 0xCC }
+  - { offsetInCU: 0x708A, offset: 0x708A, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0x16C, symBinAddr: 0x100003B00, symSize: 0x2C }
+  - { offsetInCU: 0x70BC, offset: 0x70BC, size: 0x8, addend: 0x0, symName: __ZNSt3__15mutexC2B7v160006Ev, symObjAddr: 0x1F0, symBinAddr: 0x100003B84, symSize: 0x44 }
+  - { offsetInCU: 0x7102, offset: 0x7102, size: 0x8, addend: 0x0, symName: __ZNSt3__110lock_guardINS_5mutexEEC1B7v160006ERS1_, symObjAddr: 0x234, symBinAddr: 0x100003BC8, symSize: 0x34 }
+  - { offsetInCU: 0x7138, offset: 0x7138, size: 0x8, addend: 0x0, symName: __ZN9SingletonC1Ev, symObjAddr: 0x268, symBinAddr: 0x100003BFC, symSize: 0x2C }
+  - { offsetInCU: 0x7160, offset: 0x7160, size: 0x8, addend: 0x0, symName: __ZNSt3__110lock_guardINS_5mutexEED1B7v160006Ev, symObjAddr: 0x294, symBinAddr: 0x100003C28, symSize: 0x2C }
+  - { offsetInCU: 0x7188, offset: 0x7188, size: 0x8, addend: 0x0, symName: __ZNSt3__110lock_guardINS_5mutexEEC2B7v160006ERS1_, symObjAddr: 0x2CC, symBinAddr: 0x100003C60, symSize: 0x3C }
+  - { offsetInCU: 0x71BE, offset: 0x71BE, size: 0x8, addend: 0x0, symName: __ZN9SingletonC2Ev, symObjAddr: 0x308, symBinAddr: 0x100003C9C, symSize: 0x14 }
+  - { offsetInCU: 0x71E6, offset: 0x71E6, size: 0x8, addend: 0x0, symName: __ZNSt3__110lock_guardINS_5mutexEED2B7v160006Ev, symObjAddr: 0x31C, symBinAddr: 0x100003CB0, symSize: 0x30 }
+  - { offsetInCU: 0x720E, offset: 0x720E, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0x34C, symBinAddr: 0x100003CE0, symSize: 0x8C }
+  - { offsetInCU: 0x727A, offset: 0x727A, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x404, symBinAddr: 0x100003D98, symSize: 0x38 }
+...
